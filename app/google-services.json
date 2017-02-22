@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "799092992233",
+    "project_id": "composite-ally-159409"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799092992233:android:350e09e238754942",
+        "android_client_info": {
+          "package_name": "com.example.cisadmin.gps_location"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "799092992233-5ccg6k68pvim8novv44bicrj8be21prq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cisadmin.gps_location",
+            "certificate_hash": "edf76307c180d061635e4a4071ac43c79384117f"
+          }
+        },
+        {
+          "client_id": "799092992233-9mi8pg7rfk3p7ughqmfsh3vse2tiqkcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaaN_KiIFmD9Tt5V4aIBmbe1Oe1N9739I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
